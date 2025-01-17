@@ -8,4 +8,4 @@ Product Listing: Browse through a catalog of products with detailed descriptions
 Shopping Cart: Add, remove, and manage products in your cart.
 
 you can get the live demo of this project on 
-https://tusharverma9981.github.io/E-commerce/
+[https://tusharverma9981.github.io/E-commerce/](https://tusharverma9981.github.io/Trastle-E-Commerce-/)
